@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hola 👋, soy Nicolás Garcette</h1>
 - Actualmente estoy aprendiendo **JavaScript💪💪**
 
