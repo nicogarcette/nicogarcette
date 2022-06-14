@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Nicolás Garcette</h1>
--  A actualmente me encuentro capacitándome en JavaScript💪💪
+
 
 - Cómo contactarme **nicolasgarcette@outlook.com**
 
