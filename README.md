@@ -1,1 +1,1 @@
-<h1 align="center">Hola 👋, mi nombre es Nicolás Garcette</h1>
+<h1 align="center">Hola 👋</h1>
